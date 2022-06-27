@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.zjl.food">
+
+    <application>
+        <activity android:name="com.zjl.food.bbq.BbqActivity"></activity>
+        <activity android:name="com.zjl.food.FruitActivity" />
+        <activity android:name="com.zjl.food.FoodActivity" />
+    </application>
+
+</manifest>

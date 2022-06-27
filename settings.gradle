@@ -1,0 +1,9 @@
+rootProject.name = "RouterDemo"
+include ':app'
+include ':food'
+include ':wm'
+include ':router'
+include ':rannotation'
+include ':rprocessor'
+include ':vagetable'
+include ':rplugin'
